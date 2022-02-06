@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(0, 0, 68);
+}
+
+.clock {
+  color: #e7fe17;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 70px;
+  letter-spacing: 20px;
+  font-family: "Orbitron", sans-serif;
+}
